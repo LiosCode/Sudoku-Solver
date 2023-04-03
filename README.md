@@ -4,6 +4,13 @@ This is a console-based Sudoku solver written in C++. It solves 9x9 Sudoku puzzl
 # Usage
 To run the program, first download the main.cpp file from this repository. Then, compile the source code using a C++ compiler:
 
+In Terminal:
+
+```g++ main.cpp```
+
+```./a.out```
+
+
 Copy code:
 ---------
 
