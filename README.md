@@ -6,9 +6,7 @@ To run the program, first download the main.cpp file from this repository. Then,
 
 In Terminal:
 
-```g++ main.cpp```
-
-```./a.out```
+```build/sudoku-solver```
 
 
 Copy code:
