@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/saidchihabi/Desktop/Sudoku-Solver/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -o CMakeFiles/sudoku-solver.dir/main.cpp.o -c /Users/saidchihabi/Desktop/Sudoku-Solver/main.cpp",
+  "file": "/Users/saidchihabi/Desktop/Sudoku-Solver/main.cpp",
+  "output": "CMakeFiles/sudoku-solver.dir/main.cpp.o"
+}
+]
